@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(28,37): warning C4101: message: неиспользованная локальная переменная
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(43,37): warning C4101: message: неиспользованная локальная переменная
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(89,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(103,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(122,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(211,37): warning C4101: Message: неиспользованная локальная переменная
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(223,37): warning C4101: Message: неиспользованная локальная переменная
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(235,37): warning C4101: Message: неиспользованная локальная переменная
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(246,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Ueba\OPPO\ConsoleApplication16\UnitTest1\UnitTest1.cpp(268,37): warning C4101: message: неиспользованная локальная переменная
+     Создается библиотека C:\Ueba\OPPO\ConsoleApplication16\x64\Debug\UnitTest1.lib и объект C:\Ueba\OPPO\ConsoleApplication16\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Ueba\OPPO\ConsoleApplication16\x64\Debug\UnitTest1.dll
