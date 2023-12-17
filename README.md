@@ -1,1 +1,0 @@
-# Practika-5-
